@@ -15,8 +15,8 @@ namespace ConsoleApplication
             string name = "Colton Craig";
             string location = "Auburn, California";
 
-            Console.WriteLine("My name is: " + name);
-            Console.WriteLine("My location is: " + location);
+            Console.WriteLine($"My name is: " + name);
+            Console.WriteLine($"My location is: " + location);
 
 
             Console.WriteLine("Press any key to quit.");
