@@ -13,7 +13,7 @@ namespace ConsoleApplication
         static void Main(string[] args)
         {
             string name = "Colton Craig";
-            string location = "Auburn, California";
+            var location = "Auburn, California";
 
             Console.WriteLine($"My name is: " + name);
             Console.WriteLine($"My location is: " + location);
